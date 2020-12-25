@@ -1,0 +1,10 @@
+﻿<horizontal child-expand-height="false" child-expand-width="false">
+  <!--<modal id="modal" show-event='open-modal' hide-event='close-modal' anchor-pos-y='60.2' size-delta-x='120' size-delta-y='75' move-to-center='false'>
+    <vertical child-control-height='false'>
+      <button text='Close Settings' click-event='close-modal' pad-top='55'></button>
+    </vertical>
+  </modal>
+  <button text='Model Settings' click-event='open-modal' on-click='button-click' pad-top='68' pad-left='11' align='Center'></button> -->
+  <img src='StatTrak.UI.Images.stattrak_bs.png' pref-width='14' pref-height='14'/>
+  <text id='sliceText' text='Blocks Sliced: x' font-size='12' align='Bottom' word-wrapping='false' hover-hint="The amount of blocks you've sliced with these sabers"/>
+</horizontal>

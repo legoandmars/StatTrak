@@ -2,7 +2,7 @@
 A Beat Saber mod that implements "StatTrak" sabers, tracking the amount of blocks sliced with that specific saber.
 
 ## For Users
-The download for the latest version of this mod can be found in the [Releases tab](). 
+The download for the latest version of this mod can be found in the [Releases tab](https://github.com/legoandmars/StatTrak/releases/latest). 
 
 This mod only works with StatTrak sabers - look for sabers with StatTrak in the name! There's one pair included with the mod if you download the ZIP.
 
